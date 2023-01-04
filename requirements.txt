@@ -1,0 +1,10 @@
+pandas
+statsmodels
+time
+PIL
+numpy
+scipy
+matplotlib
+
+
+
